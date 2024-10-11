@@ -1,2 +1,2 @@
 # CurrencyConvertor
-This a frontend mini project
+This a frontend mini project using API
